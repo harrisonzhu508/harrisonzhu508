@@ -6,5 +6,5 @@ I study kernel methods, Bayesian nonparametrics and spatial statistics. My main 
 
 - 🔭 I’m currently working on kernel methods, Bayesian nonparametrics and probabilistic numerics. My main focuses of applications are in remote sensing and environmental sciences.
 - 🌱 I’m currently learning PPLs and how to write good code.
-- 📫 Feel free to reach out to me at hbz15 [at] ic [dot] ac [dot] uk.
+- 📫 Feel free to reach out to me at harrison.zhu15 [at] imperial [dot] ac [dot] uk.
 
