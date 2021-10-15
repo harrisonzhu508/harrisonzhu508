@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am a 2nd-year PhD student in Modern Statistics and Statistical Machine Learning at Imperial College London.
+I am a 3rd-year PhD student in Modern Statistics and Statistical Machine Learning at Imperial College London.
 
-I study Bayesian nonparametrics and spatial statistics. My main focuses of applications are in spatial statistics and remote sensing.
+I'm interested in Gaussian processes and approximate Bayesian inference
 
-- 🔭 I’m currently working on kernel methods, Bayesian nonparametrics and probabilistic numerics. My main focuses of applications are in remote sensing and environmental sciences.
 - 🌱 I’m currently learning PPLs and how to write good code.
 - 📫 Feel free to reach out to me at harrison.zhu15 [at] imperial [dot] ac [dot] uk.
 
